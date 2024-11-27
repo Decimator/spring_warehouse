@@ -20,6 +20,8 @@ public class StockRepositoryImpl extends QueryExecutor implements StockRepositor
 
     private static final QStock qStock = QStock.stock;
 
+    private static final  Qstoc
+
     @PersistenceContext
     private EntityManager entityManager;
 
